@@ -5,7 +5,7 @@ var numberDefeated = 0;
 var firstTime = true;
 $(document).ready(setup);
 function setup() {
-    $(".ogres").append("<h1>Welcome to Ogre Fighter v.1.0</h1>");
+    $(".ogres").append("<h1>Welcome to Ogre Fighter v.1.1</h1>");
     //add stats
     //TODO: add stat values
     $(".ogres").append("<h3>STATS</h3><p id='stats'></p>");
